@@ -1,0 +1,19 @@
+Sample	total_passed	total_failed	secondary_passed	secondary_failed	supplementary_passed	supplementary_failed	duplicates_passed	duplicates_failed	mapped_passed	mapped_failed	mapped_passed_pct	mapped_failed_pct	paired in sequencing_passed	paired in sequencing_failed	read1_passed	read1_failed	read2_passed	read2_failed	properly paired_passed	properly paired_failed	properly paired_passed_pct	properly paired_failed_pct	with itself and mate mapped_passed	with itself and mate mapped_failed	singletons_passed	singletons_failed	singletons_passed_pct	singletons_failed_pct	with mate mapped to a different chr_passed	with mate mapped to a different chr_failed	with mate mapped to a different chr (mapQ >= 5)_passed	with mate mapped to a different chr (mapQ >= 5)_failed	flagstat_total
+C-215_1	127404642	0	24632712	0	0	0	85849573	0	127404642	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	127404642
+C-215_2	128427319	0	26645098	0	0	0	86760620	0	128427319	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	128427319
+C-215_3	129668897	0	36518085	0	0	0	76835786	0	129668897	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	129668897
+C-354_1	139332650	0	31330074	0	0	0	91923604	0	139332650	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	139332650
+C-354_2	120293680	0	25314764	0	0	0	79264092	0	120293680	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	120293680
+C-354_3	143344595	0	29356949	0	0	0	98253090	0	143344595	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	143344595
+P29-215_1	109032192	0	26247649	0	0	0	65828097	0	109032192	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	109032192
+P29-215_2	126661664	0	26269005	0	0	0	86299561	0	126661664	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	126661664
+P29-215_3	130054831	0	29193708	0	0	0	84821820	0	130054831	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	130054831
+P29-354_1	145105250	0	32789004	0	0	0	97252095	0	145105250	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	145105250
+P29-354_2	122770532	0	29303147	0	0	0	79491550	0	122770532	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	122770532
+P29-354_3	100236957	0	19589849	0	0	0	69337144	0	100236957	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	100236957
+Q2-215_1	142607230	0	41146351	0	0	0	86892972	0	142607230	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	142607230
+Q2-215_2	128689778	0	31006375	0	0	0	83802361	0	128689778	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	128689778
+Q2-215_3	147575730	0	38280842	0	0	0	94700620	0	147575730	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	147575730
+Q2-354_1	116868666	0	32024889	0	0	0	71370786	0	116868666	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	116868666
+Q2-354_2	138571212	0	34223243	0	0	0	97730460	0	138571212	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	138571212
+Q2-354_3	101375031	0	21736290	0	0	0	63411527	0	101375031	0	100.0	nan	0	0	0	0	0	0	0	0	nan	nan	0	0	0	0	nan	nan	0	0	0	0	101375031

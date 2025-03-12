@@ -1,0 +1,289 @@
+Module	Section	Sample Name	Source
+Picard	DuplicationMetrics	P29-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/picard/markduplicates/P29-215_3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	C-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/picard/markduplicates/C-215_1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Q2-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/picard/markduplicates/Q2-215_2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Q2-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/picard/markduplicates/Q2-354_2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	C-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/picard/markduplicates/C-354_2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	P29-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/picard/markduplicates/P29-354_2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Q2-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/picard/markduplicates/Q2-215_3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	P29-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/picard/markduplicates/P29-354_3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Q2-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/picard/markduplicates/Q2-215_1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	C-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/picard/markduplicates/C-215_3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	P29-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/picard/markduplicates/P29-215_2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	P29-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/picard/markduplicates/P29-354_1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	P29-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/picard/markduplicates/P29-215_1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Q2-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/picard/markduplicates/Q2-354_3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Q2-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/picard/markduplicates/Q2-354_1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	C-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/picard/markduplicates/C-215_2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	C-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/picard/markduplicates/C-354_3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	C-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/picard/markduplicates/C-354_1.markdup.sorted.MarkDuplicates.metrics.txt
+QualiMap	rna_genome_results	Q2-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/Q2-215_2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Q2-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/Q2-354_1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	P29-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/P29-354_2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	P29-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/P29-354_1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	P29-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/P29-215_1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	P29-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/P29-215_3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	C-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/C-215_3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Q2-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/Q2-354_2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	C-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/C-215_1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Q2-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/Q2-215_3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	P29-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/P29-215_2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	C-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/C-215_2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	P29-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/P29-354_3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	C-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/C-354_2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	C-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/C-354_3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	C-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/C-354_1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Q2-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/Q2-354_3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Q2-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/Q2-215_1/rnaseq_qc_results.txt
+QualiMap	rna_coverage_histogram	Q2-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/Q2-215_2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Q2-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/Q2-354_1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	P29-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/P29-354_2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	P29-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/P29-354_1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	P29-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/P29-215_1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	P29-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/P29-215_3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	C-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/C-215_3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Q2-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/Q2-354_2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	C-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/C-215_1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Q2-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/Q2-215_3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	P29-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/P29-215_2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	C-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/C-215_2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	P29-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/P29-354_3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	C-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/C-354_2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	C-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/C-354_3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	C-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/C-354_1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Q2-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/Q2-354_3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Q2-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/qualimap/Q2-215_1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+RSeQC	read_distribution	Q2-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_distribution/Q2-354_2.read_distribution.txt
+RSeQC	read_distribution	P29-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_distribution/P29-215_2.read_distribution.txt
+RSeQC	read_distribution	Q2-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_distribution/Q2-215_1.read_distribution.txt
+RSeQC	read_distribution	Q2-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_distribution/Q2-354_3.read_distribution.txt
+RSeQC	read_distribution	C-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_distribution/C-215_1.read_distribution.txt
+RSeQC	read_distribution	P29-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_distribution/P29-354_1.read_distribution.txt
+RSeQC	read_distribution	Q2-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_distribution/Q2-354_1.read_distribution.txt
+RSeQC	read_distribution	P29-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_distribution/P29-215_3.read_distribution.txt
+RSeQC	read_distribution	Q2-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_distribution/Q2-215_3.read_distribution.txt
+RSeQC	read_distribution	P29-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_distribution/P29-354_3.read_distribution.txt
+RSeQC	read_distribution	C-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_distribution/C-215_3.read_distribution.txt
+RSeQC	read_distribution	P29-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_distribution/P29-215_1.read_distribution.txt
+RSeQC	read_distribution	Q2-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_distribution/Q2-215_2.read_distribution.txt
+RSeQC	read_distribution	C-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_distribution/C-354_3.read_distribution.txt
+RSeQC	read_distribution	P29-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_distribution/P29-354_2.read_distribution.txt
+RSeQC	read_distribution	C-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_distribution/C-215_2.read_distribution.txt
+RSeQC	read_distribution	C-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_distribution/C-354_1.read_distribution.txt
+RSeQC	read_distribution	C-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_distribution/C-354_2.read_distribution.txt
+RSeQC	read_duplication	Q2-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_duplication/Q2-354_2.pos.DupRate.xls
+RSeQC	read_duplication	Q2-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_duplication/Q2-215_1.pos.DupRate.xls
+RSeQC	read_duplication	P29-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_duplication/P29-215_1.pos.DupRate.xls
+RSeQC	read_duplication	C-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_duplication/C-215_2.pos.DupRate.xls
+RSeQC	read_duplication	C-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_duplication/C-354_1.pos.DupRate.xls
+RSeQC	read_duplication	C-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_duplication/C-215_1.pos.DupRate.xls
+RSeQC	read_duplication	C-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_duplication/C-215_3.pos.DupRate.xls
+RSeQC	read_duplication	Q2-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_duplication/Q2-215_3.pos.DupRate.xls
+RSeQC	read_duplication	P29-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_duplication/P29-354_1.pos.DupRate.xls
+RSeQC	read_duplication	P29-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_duplication/P29-215_3.pos.DupRate.xls
+RSeQC	read_duplication	C-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_duplication/C-354_3.pos.DupRate.xls
+RSeQC	read_duplication	P29-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_duplication/P29-354_3.pos.DupRate.xls
+RSeQC	read_duplication	P29-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_duplication/P29-215_2.pos.DupRate.xls
+RSeQC	read_duplication	C-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_duplication/C-354_2.pos.DupRate.xls
+RSeQC	read_duplication	Q2-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_duplication/Q2-354_3.pos.DupRate.xls
+RSeQC	read_duplication	Q2-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_duplication/Q2-215_2.pos.DupRate.xls
+RSeQC	read_duplication	Q2-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_duplication/Q2-354_1.pos.DupRate.xls
+RSeQC	read_duplication	P29-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/read_duplication/P29-354_2.pos.DupRate.xls
+RSeQC	junction_annotation	Q2-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_annotation/Q2-354_1.junction_annotation.log
+RSeQC	junction_annotation	Q2-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_annotation/Q2-215_3.junction_annotation.log
+RSeQC	junction_annotation	C-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_annotation/C-354_2.junction_annotation.log
+RSeQC	junction_annotation	C-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_annotation/C-215_1.junction_annotation.log
+RSeQC	junction_annotation	C-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_annotation/C-354_3.junction_annotation.log
+RSeQC	junction_annotation	C-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_annotation/C-215_3.junction_annotation.log
+RSeQC	junction_annotation	P29-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_annotation/P29-354_2.junction_annotation.log
+RSeQC	junction_annotation	Q2-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_annotation/Q2-354_3.junction_annotation.log
+RSeQC	junction_annotation	C-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_annotation/C-215_2.junction_annotation.log
+RSeQC	junction_annotation	P29-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_annotation/P29-354_3.junction_annotation.log
+RSeQC	junction_annotation	P29-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_annotation/P29-215_1.junction_annotation.log
+RSeQC	junction_annotation	Q2-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_annotation/Q2-215_2.junction_annotation.log
+RSeQC	junction_annotation	P29-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_annotation/P29-215_2.junction_annotation.log
+RSeQC	junction_annotation	Q2-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_annotation/Q2-354_2.junction_annotation.log
+RSeQC	junction_annotation	Q2-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_annotation/Q2-215_1.junction_annotation.log
+RSeQC	junction_annotation	P29-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_annotation/P29-354_1.junction_annotation.log
+RSeQC	junction_annotation	P29-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_annotation/P29-215_3.junction_annotation.log
+RSeQC	junction_annotation	C-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_annotation/C-354_1.junction_annotation.log
+RSeQC	junction_saturation	Q2-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_saturation/Q2-354_2.junctionSaturation_plot.r
+RSeQC	junction_saturation	C-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_saturation/C-215_2.junctionSaturation_plot.r
+RSeQC	junction_saturation	P29-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_saturation/P29-354_3.junctionSaturation_plot.r
+RSeQC	junction_saturation	Q2-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_saturation/Q2-354_1.junctionSaturation_plot.r
+RSeQC	junction_saturation	Q2-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_saturation/Q2-354_3.junctionSaturation_plot.r
+RSeQC	junction_saturation	P29-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_saturation/P29-354_2.junctionSaturation_plot.r
+RSeQC	junction_saturation	C-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_saturation/C-215_1.junctionSaturation_plot.r
+RSeQC	junction_saturation	C-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_saturation/C-354_1.junctionSaturation_plot.r
+RSeQC	junction_saturation	C-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_saturation/C-215_3.junctionSaturation_plot.r
+RSeQC	junction_saturation	P29-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_saturation/P29-215_1.junctionSaturation_plot.r
+RSeQC	junction_saturation	Q2-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_saturation/Q2-215_2.junctionSaturation_plot.r
+RSeQC	junction_saturation	C-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_saturation/C-354_3.junctionSaturation_plot.r
+RSeQC	junction_saturation	P29-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_saturation/P29-354_1.junctionSaturation_plot.r
+RSeQC	junction_saturation	Q2-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_saturation/Q2-215_3.junctionSaturation_plot.r
+RSeQC	junction_saturation	C-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_saturation/C-354_2.junctionSaturation_plot.r
+RSeQC	junction_saturation	P29-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_saturation/P29-215_2.junctionSaturation_plot.r
+RSeQC	junction_saturation	P29-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_saturation/P29-215_3.junctionSaturation_plot.r
+RSeQC	junction_saturation	Q2-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/junction_saturation/Q2-215_1.junctionSaturation_plot.r
+RSeQC	infer_experiment	C-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/infer_experiment/C-354_1.infer_experiment.txt
+RSeQC	infer_experiment	P29-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/infer_experiment/P29-354_3.infer_experiment.txt
+RSeQC	infer_experiment	P29-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/infer_experiment/P29-215_1.infer_experiment.txt
+RSeQC	infer_experiment	C-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/infer_experiment/C-354_3.infer_experiment.txt
+RSeQC	infer_experiment	Q2-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/infer_experiment/Q2-354_3.infer_experiment.txt
+RSeQC	infer_experiment	Q2-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/infer_experiment/Q2-215_3.infer_experiment.txt
+RSeQC	infer_experiment	C-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/infer_experiment/C-215_1.infer_experiment.txt
+RSeQC	infer_experiment	Q2-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/infer_experiment/Q2-354_2.infer_experiment.txt
+RSeQC	infer_experiment	Q2-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/infer_experiment/Q2-215_1.infer_experiment.txt
+RSeQC	infer_experiment	P29-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/infer_experiment/P29-215_3.infer_experiment.txt
+RSeQC	infer_experiment	Q2-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/infer_experiment/Q2-354_1.infer_experiment.txt
+RSeQC	infer_experiment	C-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/infer_experiment/C-215_3.infer_experiment.txt
+RSeQC	infer_experiment	P29-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/infer_experiment/P29-354_2.infer_experiment.txt
+RSeQC	infer_experiment	P29-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/infer_experiment/P29-354_1.infer_experiment.txt
+RSeQC	infer_experiment	Q2-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/infer_experiment/Q2-215_2.infer_experiment.txt
+RSeQC	infer_experiment	C-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/infer_experiment/C-215_2.infer_experiment.txt
+RSeQC	infer_experiment	P29-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/infer_experiment/P29-215_2.infer_experiment.txt
+RSeQC	infer_experiment	C-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/infer_experiment/C-354_2.infer_experiment.txt
+RSeQC	bam_stat	P29-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/bam_stat/P29-354_3.bam_stat.txt
+RSeQC	bam_stat	C-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/bam_stat/C-215_3.bam_stat.txt
+RSeQC	bam_stat	Q2-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/bam_stat/Q2-354_1.bam_stat.txt
+RSeQC	bam_stat	P29-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/bam_stat/P29-215_1.bam_stat.txt
+RSeQC	bam_stat	C-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/bam_stat/C-354_3.bam_stat.txt
+RSeQC	bam_stat	C-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/bam_stat/C-215_2.bam_stat.txt
+RSeQC	bam_stat	Q2-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/bam_stat/Q2-354_2.bam_stat.txt
+RSeQC	bam_stat	P29-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/bam_stat/P29-354_2.bam_stat.txt
+RSeQC	bam_stat	C-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/bam_stat/C-215_1.bam_stat.txt
+RSeQC	bam_stat	C-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/bam_stat/C-354_1.bam_stat.txt
+RSeQC	bam_stat	Q2-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/bam_stat/Q2-354_3.bam_stat.txt
+RSeQC	bam_stat	P29-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/bam_stat/P29-354_1.bam_stat.txt
+RSeQC	bam_stat	C-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/bam_stat/C-354_2.bam_stat.txt
+RSeQC	bam_stat	Q2-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/bam_stat/Q2-215_2.bam_stat.txt
+RSeQC	bam_stat	Q2-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/bam_stat/Q2-215_3.bam_stat.txt
+RSeQC	bam_stat	P29-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/bam_stat/P29-215_3.bam_stat.txt
+RSeQC	bam_stat	Q2-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/bam_stat/Q2-215_1.bam_stat.txt
+RSeQC	bam_stat	P29-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/rseqc/bam_stat/P29-215_2.bam_stat.txt
+Samtools	stats	P29-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/stats/P29-215_3.markdup.sorted.bam.stats
+Samtools	stats	Q2-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/stats/Q2-354_2.markdup.sorted.bam.stats
+Samtools	stats	Q2-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/stats/Q2-354_1.markdup.sorted.bam.stats
+Samtools	stats	P29-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/stats/P29-215_1.markdup.sorted.bam.stats
+Samtools	stats	P29-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/stats/P29-215_2.markdup.sorted.bam.stats
+Samtools	stats	C-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/stats/C-215_2.markdup.sorted.bam.stats
+Samtools	stats	P29-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/stats/P29-354_3.markdup.sorted.bam.stats
+Samtools	stats	P29-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/stats/P29-354_1.markdup.sorted.bam.stats
+Samtools	stats	C-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/stats/C-354_3.markdup.sorted.bam.stats
+Samtools	stats	C-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/stats/C-354_2.markdup.sorted.bam.stats
+Samtools	stats	C-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/stats/C-215_3.markdup.sorted.bam.stats
+Samtools	stats	P29-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/stats/P29-354_2.markdup.sorted.bam.stats
+Samtools	stats	Q2-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/stats/Q2-354_3.markdup.sorted.bam.stats
+Samtools	stats	Q2-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/stats/Q2-215_1.markdup.sorted.bam.stats
+Samtools	stats	Q2-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/stats/Q2-215_2.markdup.sorted.bam.stats
+Samtools	stats	Q2-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/stats/Q2-215_3.markdup.sorted.bam.stats
+Samtools	stats	C-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/stats/C-354_1.markdup.sorted.bam.stats
+Samtools	stats	C-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/stats/C-215_1.markdup.sorted.bam.stats
+Samtools	flagstat	P29-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/flagstat/P29-215_2.markdup.sorted.bam.flagstat
+Samtools	flagstat	P29-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/flagstat/P29-354_2.markdup.sorted.bam.flagstat
+Samtools	flagstat	C-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/flagstat/C-215_1.markdup.sorted.bam.flagstat
+Samtools	flagstat	P29-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/flagstat/P29-354_1.markdup.sorted.bam.flagstat
+Samtools	flagstat	Q2-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/flagstat/Q2-354_1.markdup.sorted.bam.flagstat
+Samtools	flagstat	C-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/flagstat/C-215_3.markdup.sorted.bam.flagstat
+Samtools	flagstat	P29-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/flagstat/P29-354_3.markdup.sorted.bam.flagstat
+Samtools	flagstat	C-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/flagstat/C-215_2.markdup.sorted.bam.flagstat
+Samtools	flagstat	Q2-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/flagstat/Q2-215_2.markdup.sorted.bam.flagstat
+Samtools	flagstat	C-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/flagstat/C-354_3.markdup.sorted.bam.flagstat
+Samtools	flagstat	Q2-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/flagstat/Q2-354_2.markdup.sorted.bam.flagstat
+Samtools	flagstat	Q2-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/flagstat/Q2-354_3.markdup.sorted.bam.flagstat
+Samtools	flagstat	Q2-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/flagstat/Q2-215_1.markdup.sorted.bam.flagstat
+Samtools	flagstat	Q2-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/flagstat/Q2-215_3.markdup.sorted.bam.flagstat
+Samtools	flagstat	C-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/flagstat/C-354_1.markdup.sorted.bam.flagstat
+Samtools	flagstat	P29-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/flagstat/P29-215_1.markdup.sorted.bam.flagstat
+Samtools	flagstat	C-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/flagstat/C-354_2.markdup.sorted.bam.flagstat
+Samtools	flagstat	P29-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/flagstat/P29-215_3.markdup.sorted.bam.flagstat
+Samtools	idxstats	Q2-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/idxstats/Q2-354_2.markdup.sorted.bam.idxstats
+Samtools	idxstats	Q2-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/idxstats/Q2-354_1.markdup.sorted.bam.idxstats
+Samtools	idxstats	Q2-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/idxstats/Q2-215_3.markdup.sorted.bam.idxstats
+Samtools	idxstats	Q2-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/idxstats/Q2-215_2.markdup.sorted.bam.idxstats
+Samtools	idxstats	P29-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/idxstats/P29-354_3.markdup.sorted.bam.idxstats
+Samtools	idxstats	P29-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/idxstats/P29-354_2.markdup.sorted.bam.idxstats
+Samtools	idxstats	Q2-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/idxstats/Q2-354_3.markdup.sorted.bam.idxstats
+Samtools	idxstats	P29-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/idxstats/P29-215_1.markdup.sorted.bam.idxstats
+Samtools	idxstats	P29-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/idxstats/P29-215_3.markdup.sorted.bam.idxstats
+Samtools	idxstats	C-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/idxstats/C-354_2.markdup.sorted.bam.idxstats
+Samtools	idxstats	C-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/idxstats/C-215_3.markdup.sorted.bam.idxstats
+Samtools	idxstats	P29-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/idxstats/P29-354_1.markdup.sorted.bam.idxstats
+Samtools	idxstats	C-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/idxstats/C-354_1.markdup.sorted.bam.idxstats
+Samtools	idxstats	C-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/idxstats/C-354_3.markdup.sorted.bam.idxstats
+Samtools	idxstats	P29-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/idxstats/P29-215_2.markdup.sorted.bam.idxstats
+Samtools	idxstats	Q2-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/idxstats/Q2-215_1.markdup.sorted.bam.idxstats
+Samtools	idxstats	C-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/idxstats/C-215_1.markdup.sorted.bam.idxstats
+Samtools	idxstats	C-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/samtools/idxstats/C-215_2.markdup.sorted.bam.idxstats
+STAR	SummaryLog	Q2-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/star/Q2-215_2.Log.final.out
+STAR	SummaryLog	P29-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/star/P29-215_3.Log.final.out
+STAR	SummaryLog	C-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/star/C-215_2.Log.final.out
+STAR	SummaryLog	P29-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/star/P29-354_3.Log.final.out
+STAR	SummaryLog	P29-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/star/P29-354_1.Log.final.out
+STAR	SummaryLog	Q2-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/star/Q2-215_1.Log.final.out
+STAR	SummaryLog	C-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/star/C-354_2.Log.final.out
+STAR	SummaryLog	P29-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/star/P29-354_2.Log.final.out
+STAR	SummaryLog	Q2-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/star/Q2-354_3.Log.final.out
+STAR	SummaryLog	C-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/star/C-354_1.Log.final.out
+STAR	SummaryLog	C-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/star/C-215_3.Log.final.out
+STAR	SummaryLog	C-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/star/C-215_1.Log.final.out
+STAR	SummaryLog	P29-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/star/P29-215_2.Log.final.out
+STAR	SummaryLog	Q2-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/star/Q2-354_2.Log.final.out
+STAR	SummaryLog	Q2-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/star/Q2-354_1.Log.final.out
+STAR	SummaryLog	C-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/star/C-354_3.Log.final.out
+STAR	SummaryLog	Q2-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/star/Q2-215_3.Log.final.out
+STAR	SummaryLog	P29-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/star/P29-215_1.Log.final.out
+FastQC (raw)	all_sections	P29-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/raw/P29-215_3_fastqc.zip
+FastQC (raw)	all_sections	P29-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/raw/P29-354_2_fastqc.zip
+FastQC (raw)	all_sections	P29-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/raw/P29-354_1_fastqc.zip
+FastQC (raw)	all_sections	C-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/raw/C-354_3_fastqc.zip
+FastQC (raw)	all_sections	P29-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/raw/P29-215_1_fastqc.zip
+FastQC (raw)	all_sections	Q2-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/raw/Q2-215_2_fastqc.zip
+FastQC (raw)	all_sections	C-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/raw/C-354_2_fastqc.zip
+FastQC (raw)	all_sections	Q2-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/raw/Q2-215_3_fastqc.zip
+FastQC (raw)	all_sections	Q2-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/raw/Q2-354_2_fastqc.zip
+FastQC (raw)	all_sections	C-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/raw/C-215_1_fastqc.zip
+FastQC (raw)	all_sections	C-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/raw/C-354_1_fastqc.zip
+FastQC (raw)	all_sections	Q2-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/raw/Q2-354_3_fastqc.zip
+FastQC (raw)	all_sections	Q2-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/raw/Q2-215_1_fastqc.zip
+FastQC (raw)	all_sections	C-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/raw/C-215_2_fastqc.zip
+FastQC (raw)	all_sections	C-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/raw/C-215_3_fastqc.zip
+FastQC (raw)	all_sections	P29-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/raw/P29-215_2_fastqc.zip
+FastQC (raw)	all_sections	Q2-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/raw/Q2-354_1_fastqc.zip
+FastQC (raw)	all_sections	P29-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/raw/P29-354_3_fastqc.zip
+Cutadapt	all_sections	P29-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/trim_log/P29-215_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	C-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/trim_log/C-354_3.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	C-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/trim_log/C-215_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Q2-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/trim_log/Q2-354_3.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	C-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/trim_log/C-215_3.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	C-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/trim_log/C-215_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	P29-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/trim_log/P29-215_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	P29-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/trim_log/P29-354_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	C-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/trim_log/C-354_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Q2-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/trim_log/Q2-215_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	P29-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/trim_log/P29-354_3.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Q2-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/trim_log/Q2-215_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	C-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/trim_log/C-354_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	P29-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/trim_log/P29-215_3.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Q2-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/trim_log/Q2-354_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Q2-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/trim_log/Q2-215_3.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	P29-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/trim_log/P29-354_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Q2-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/trim_log/Q2-354_1.fastq.gz_trimming_report.txt
+FastQC (trimmed)	all_sections	C-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/trim/C-354_3_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	P29-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/trim/P29-354_2_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	P29-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/trim/P29-215_1_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	Q2-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/trim/Q2-215_3_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	P29-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/trim/P29-354_3_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	P29-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/trim/P29-354_1_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	P29-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/trim/P29-215_2_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	C-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/trim/C-215_3_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	Q2-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/trim/Q2-354_1_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	C-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/trim/C-215_1_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	C-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/trim/C-215_2_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	C-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/trim/C-354_2_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	C-354_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/trim/C-354_1_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	Q2-354_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/trim/Q2-354_2_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	Q2-354_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/trim/Q2-354_3_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	Q2-215_2	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/trim/Q2-215_2_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	P29-215_3	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/trim/P29-215_3_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	Q2-215_1	/home/jaime/work/5f/175b5cc37ac610ad90fb2058efb19c/fastqc/trim/Q2-215_1_trimmed_fastqc.zip
